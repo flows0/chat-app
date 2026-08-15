@@ -2,11 +2,11 @@
 A full-stack real-time messaging application built with the MERN stack (MongoDB, Express, React, Node.js) and powered by Socket.IO for instant communication. Users can securely chat one-on-one, send images, and access messages instantly with full authentication and authorization flow.
 
 ## 📸 Screenshots
-Coming soon...
-
-## 🚀 Live Demo
-[View Live Application](https://github.com/flowz0)
-(Deployment WIP)
+<img src="https://i.imgur.com/Cl2dwWB.png" alt="photo 1" />
+<img src="https://i.imgur.com/CXKpaLY.png" alt="photo 2" />
+<img src="https://i.imgur.com/3z6OnpN.png" alt="photo 3" />
+<img src="https://i.imgur.com/R4ZtxTK.png" alt="photo 4" />
+<img src="https://i.imgur.com/E0OmZLG.png" alt="photo 5" />
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS, daisyUI
@@ -67,8 +67,8 @@ npm run dev
 
 ## 🙋‍♂️ Author
 ### Billy Flowers
-- GitHub: [@flowz0](https://github.com/flowz0)
-- Portfolio: [bflows.dev](https://www.bflows.dev/)
+- GitHub: [github.com/flows0](https://github.com/flows0)
+- Portfolio: [billyf-portfolio.vercel.app](https://billyf-portfolio.vercel.app/)
 
 ## 📄 License
 This project is licensed under the [MIT License](./LICENSE).
